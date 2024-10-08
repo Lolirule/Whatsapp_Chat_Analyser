@@ -18,14 +18,23 @@ The mini user interface is designed with user experience in mind, offering a sea
 
 2. **Dynamic Visuals**: Interactive graphs and charts displaying chat statistics, allowing users to hover for more detailed insights.
    
-   ![image](https://github.com/user-attachments/assets/1fb52e2d-c7be-493b-8797-a001f6ae5f66)
-   
-   ![image](https://github.com/user-attachments/assets/a9df1a7c-b635-4366-ab23-b4a1b7f816bd)
-   
-   ![image](https://github.com/user-attachments/assets/deaad144-bcfc-40e0-83a8-6611d0d3e513)
+   ![image](https://github.com/user-attachments/assets/f05d027c-4ae0-4664-aca7-cd28907f86c6)
 
 
-3. **User-Friendly Navigation**: Clear labels and instructions guide users through the analysis process.
+   ![image](https://github.com/user-attachments/assets/206ed78f-cc51-4936-860b-147675dd18f8)
+
+
+   ![image](https://github.com/user-attachments/assets/b66667b7-d30f-40fd-a198-9c319785c6ce)
+
+
+   ![image](https://github.com/user-attachments/assets/073fe0b6-86b1-4b41-b527-a6080e1b287c)
+
+
+
+2. **User-Friendly Navigation**: Clear labels and instructions guide users through the analysis process.
+
+   ![image](https://github.com/user-attachments/assets/31fc1621-799f-46c1-90ee-162fcb8ae917)
+
 
 ## Tools & Technologies
 
