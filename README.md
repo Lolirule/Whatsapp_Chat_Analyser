@@ -19,12 +19,13 @@ The mini user interface is designed with user experience in mind, offering a sea
 2. **Dynamic Visuals**: Interactive graphs and charts displaying chat statistics, allowing users to hover for more detailed insights.
    
    ![image](https://github.com/user-attachments/assets/1fb52e2d-c7be-493b-8797-a001f6ae5f66)
+   
    ![image](https://github.com/user-attachments/assets/a9df1a7c-b635-4366-ab23-b4a1b7f816bd)
+   
    ![image](https://github.com/user-attachments/assets/deaad144-bcfc-40e0-83a8-6611d0d3e513)
 
 
-3. **Responsive Design**: The interface adjusts to different screen sizes, ensuring a consistent experience on both desktop and mobile devices.
-4. **User-Friendly Navigation**: Clear labels and instructions guide users through the analysis process.
+3. **User-Friendly Navigation**: Clear labels and instructions guide users through the analysis process.
 
 ## Tools & Technologies
 
