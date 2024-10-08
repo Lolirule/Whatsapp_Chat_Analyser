@@ -16,9 +16,12 @@ The mini user interface is designed with user experience in mind, offering a sea
 1. **File Upload**: A simple drag-and-drop area or a button to upload exported WhatsApp chat files in `.txt` format.
    ![image](https://github.com/user-attachments/assets/08335eeb-1e7e-4da9-a643-52408ffe0304)
 
-3. **Dynamic Visuals**: Interactive graphs and charts displaying chat statistics, allowing users to hover for more detailed insights.
-4. **Responsive Design**: The interface adjusts to different screen sizes, ensuring a consistent experience on both desktop and mobile devices.
-5. **User-Friendly Navigation**: Clear labels and instructions guide users through the analysis process.
+2. **Dynamic Visuals**: Interactive graphs and charts displaying chat statistics, allowing users to hover for more detailed insights.
+   ![image](https://github.com/user-attachments/assets/1fb52e2d-c7be-493b-8797-a001f6ae5f66)
+   ![image](https://github.com/user-attachments/assets/a9df1a7c-b635-4366-ab23-b4a1b7f816bd)
+
+3. **Responsive Design**: The interface adjusts to different screen sizes, ensuring a consistent experience on both desktop and mobile devices.
+4. **User-Friendly Navigation**: Clear labels and instructions guide users through the analysis process.
 
 ## Tools & Technologies
 
